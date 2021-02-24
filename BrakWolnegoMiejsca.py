@@ -1,0 +1,2 @@
+class BrakWolnegoMiejsca(Exception):
+    pass
